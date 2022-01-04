@@ -11,7 +11,16 @@ h3{
 .orange-color{
     color: orange;
 }
-div{
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-weight: 700;
+    margin-left: 2%;
+    color: beige;
+}
+p{
     text-align: justify;
     margin-right: 50%;
     margin-left: 2%;
