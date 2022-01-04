@@ -11,14 +11,23 @@ h3{
 .orange-color{
     color: orange;
 }
+section{
+    display: flex;
+}
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(lightsalmon, tomato);
     padding: 10px 40px;
-    border-radius: 10px;
+    border-radius: 5px;
     font-weight: 700;
     margin-left: 2%;
     color: beige;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
 }
 p{
     text-align: justify;
