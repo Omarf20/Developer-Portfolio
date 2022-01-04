@@ -3,6 +3,10 @@ body{
 }
 h1{
     font-size: 50px;
+    margin-left: 2%;
+}
+h3{
+    margin-left: 2%;
 }
 .orange-color{
     color: orange;
